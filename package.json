@@ -1,0 +1,20 @@
+{
+  "name": "add-commonjs-exports-to-es-modules-in-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strafer14/add-commonjs-exports-to-es-modules-in-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strafer14/add-commonjs-exports-to-es-modules-in-ts/issues"
+  },
+  "homepage": "https://github.com/Strafer14/add-commonjs-exports-to-es-modules-in-ts#readme"
+}
