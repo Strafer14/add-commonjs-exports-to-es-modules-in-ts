@@ -56,4 +56,4 @@ const walk = function (dir, done) {
   });
 };
 
-module.exports = function(path) { walk(path, () => { console.log('Done!') }); }
+walk(process.argv[2], () => { console.log('Done!') });
