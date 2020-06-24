@@ -1,3 +1,5 @@
-var myLib = require('..');
+#!/usr/bin/env node
 
-myLib.walk(process.argv[2], () => { console.log('Done!') });
+const { walk } = require('../index');
+
+walk(process.argv[2], () => { console.log('Done!') });
