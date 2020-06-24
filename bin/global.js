@@ -1,3 +1,3 @@
-const { walk } = require('..');
+var myLib = require('..');
 
-walk(process.argv[2], () => { console.log('Done!') });
+myLib.walk(process.argv[2], () => { console.log('Done!') });
