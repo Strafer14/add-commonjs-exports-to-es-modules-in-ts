@@ -10,9 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Strafer14/add-commonjs-exports-to-es-modules-in-ts.git"
   },
+  "bin": {
+    "addcjstoesm": "./bin/global.js"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Strafer",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Strafer14/add-commonjs-exports-to-es-modules-in-ts/issues"
   },
