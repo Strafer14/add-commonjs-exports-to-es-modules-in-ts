@@ -13,7 +13,7 @@
   "bin": {
     "addcjstoesm": "./bin/global.js"
   },
-  "keywords": [],
+  "keywords": ["cjs", "commonjs", "esm", "esmodule", "esmodules"],
   "author": "Strafer",
   "license": "MIT",
   "bugs": {
