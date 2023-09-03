@@ -1,6 +1,6 @@
 {
   "name": "add-commonjs-exports-to-es-modules-in-ts",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,13 @@
   "bin": {
     "addcjstoesm": "./bin/global.js"
   },
-  "keywords": ["cjs", "commonjs", "esm", "esmodule", "esmodules"],
+  "keywords": [
+    "cjs",
+    "commonjs",
+    "esm",
+    "esmodule",
+    "esmodules"
+  ],
   "author": "Strafer",
   "license": "MIT",
   "bugs": {
